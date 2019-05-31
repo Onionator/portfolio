@@ -22,6 +22,12 @@ img {
   width: 100%;
 }
 
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
 h2 {
   font-size: 25px;
   font-weight: bold;
@@ -31,6 +37,13 @@ h2 {
 p {
   font-size: 20px;
   padding: 20px;
+}
+
+.greybox {
+  background-color: lightgrey;
+  text-shadow: 1px 1px darksalmon;
+  border-radius: 15px;
+  padding-bottom: 10px;
 }
 
 #bicycle {
