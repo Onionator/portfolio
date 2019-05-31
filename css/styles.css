@@ -46,6 +46,15 @@ p {
   padding-bottom: 10px;
 }
 
+a:hover {
+  color: darksalmon;
+}
+
+.active a{
+  color: black !important;
+  text-shadow: 1px 1px darksalmon;
+}
+
 #bicycle {
   margin-top: 20px;
   width: 96%;
