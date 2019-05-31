@@ -1,17 +1,54 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="css/styles.css" type="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap.css" type="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css">
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
     <title>About Me</title>
   </head>
-  <body>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about_me.html">About Me</a></li>
-        <li><a href="my_projects.html">My Projects</a></li>
+  <body class="container">
+    <nav class="navbar">
+      <ul class="nav nav-tabs">
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li class="active">
+          <a href="about_me.html">About Me</a>
+        </li>
+        <li>
+          <a href="my_projects.html">My Projects</a>
+        </li>
       </ul>
     </nav>
+    <div class="row">
+      <div class="col-md-4">
+        <img src="img/sam_ranger.jpg" alt="A picture of Sam.">
+      </div>
+      <div class="col-md-8">
+        <h2>My name is <span id="name">Sam Cook</span></h2>
+        <p>I am currently a student at Epicodus learning how to write code. I have been learning to code off and on for the past couple years, but I decided it was time to go full time and move towards the career that I want.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-6">
+      <h2>I am a Ford guy</h2>
+      <p>I have been running my own business buying, selling, and restoring classic cars and trucks part time for the past 7 years. It’s more of a hobby than a business, but it’s a hobby that pays for itself. I have had the pleasure of working on 23 different vehicles so far and I’m sure I’ll double that number before I’m 30. While each vehicle is different I can definitely say I have owned mostly Ford F100s of which I current own 5. That said I only have one that is currently road ready… for now.</p>
+    </div>
+    <div class="col-md-6">
+      <img src="img/mustang.jpg" alt="Picture of 1964 mustang">
+      <img src="img/f100s.jpg" alt="Picture of F100s">
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <img src="img/forest.jpg" alt="picture of a forest">
+      </div>
+      <div class="col-md-4">
+        <h2>I enjoy being outside</h2>
+        <p>Whether I’m biking, hiking, or longboarding I always enjoy being outside. I can’t go a day without doing something outside or at least cruising around the country with the windows down in one of my classics. My favorite time of year is Fall because I like all the colors and the crisp bite in the air when you're flying down a hill at 30 mph on a longboard.</p>
+      </div>
+      <div class="col-md-4">
+        <img id="bicycle" src="img/bicycle.jpg" alt="picture of bicycle">
+      </div>
+    </div>
+  </div>
   </body>
 </html

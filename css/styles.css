@@ -1,0 +1,44 @@
+body {
+  font-family: monospace;
+}
+
+nav {
+    background-color: darksalmon;
+}
+
+nav ul {
+  list-style-type: none;
+  font-family: monospace;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+nav a{
+  text-shadow: 1px 1px #000;
+}
+
+img {
+  float: left;
+  width: 100%;
+}
+
+h2 {
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  padding: 20px;
+}
+
+#bicycle {
+  margin-top: 20px;
+  width: 96%;
+}
+
+#name {
+  font-family: Brush Script MT;
+font-size: 30px;
+}
