@@ -45,10 +45,6 @@ ol {
   list-style-position: inside;
 }
 
-footer {
-  position: static;
-  bottom: 0px;
-}
 .greybox {
   background-color: lightgrey;
   text-shadow: 1px 1px darksalmon;
