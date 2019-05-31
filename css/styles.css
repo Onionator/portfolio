@@ -1,5 +1,6 @@
 body {
   font-family: monospace;
+  background-color: black;
 }
 
 nav {
@@ -39,8 +40,14 @@ p {
   padding: 20px;
 }
 
-ol li {
+ol {
   font-size: 25px;
+  list-style-position: inside;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
 }
 .greybox {
   background-color: lightgrey;
@@ -60,12 +67,12 @@ a:hover {
 
 .anchors a{
   font-size: 20px;
-  background-color: lightgrey;
+  background-color: darksalmon;
   border-radius: 5px;
   border: 2px solid black;
   color: black;
   padding: 3px;
-  text-shadow: 1px 1px darksalmon;
+  text-shadow: 1px 1px white;
 }
 
 .anchors a:hover {
@@ -75,9 +82,16 @@ a:hover {
   border-color: darksalmon;
 }
 
+.rowboxes {
+  border: 3px solid black;
+  border-radius: 15px;
+  margin: 3px;
+  background-color: lightgrey;
+}
 #bicycle {
   margin-top: 20px;
-  width: 96%;
+  float: right;
+  width: 100%;
 }
 
 #name {
