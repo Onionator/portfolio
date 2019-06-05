@@ -1,14 +1,33 @@
-# _Portfolio_
+# Portfolio
 
-#### _This is a portfolio creater by Sam Cook 5-31-19_
+#### This website was made to show off Sam Cook's programming skills, 6/4/19_
 
-#### _This portfolio was created by Sam Cook to show off his work_
+#### By _**Sam Cook**_
 
-# _Languages Used_
-_HTML_
-_CSS_
+## Description
 
-# _License_
-_none_
+This website was made to show off Sam Cook's programming skills. It doesn't really do much else.
 
-**_copright (c) Sam Cook_**
+## Setup/Installation Requirements
+
+* This website is located at https://github.com/Onionator/portfolio.git
+* Open in a web browser
+
+## Known Bugs
+
+There are no known issues with this website.
+
+## Support and contact details
+
+If an issue is found please email WhenPotatoesFry@gmail.com
+
+## Technologies Used
+
+* HTML
+* CSS
+
+### License
+
+MIT
+
+copright (c) **_Sam Cook_**
