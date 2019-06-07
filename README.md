@@ -1,6 +1,6 @@
 # Portfolio
 
-#### This website was made to show off Sam Cook's programming skills, 6/4/19_
+#### This website was made to show off Sam Cook's programming skills, last update 6/4/19
 
 #### By _**Sam Cook**_
 
@@ -10,7 +10,8 @@ This website was made to show off Sam Cook's programming skills. It doesn't real
 
 ## Setup/Installation Requirements
 
-* This website is located at https://github.com/Onionator/portfolio.git
+* This website is located at https://onionator.github.io/portfolio/index.html
+* The GitHub repository is located at https://github.com/Onionator/portfolio.git
 * Open in a web browser
 
 ## Known Bugs
